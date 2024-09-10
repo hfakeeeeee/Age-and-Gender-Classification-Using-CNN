@@ -19,14 +19,14 @@ This project implements a deep learning model to classify age and gender using t
    ```
 
 2. Navigate to the project directory:
-```bash
-cd /Age-and-Gender-Classification-Using-CNN
-```
+    ```bash
+    cd /Age-and-Gender-Classification-Using-CNN
+    ```
 
 3. Install the required dependencies:
-```bash
-pip install -r requirements.txt
-```
+    ```bash
+    pip install -r requirements.txt
+    ```
 
 ## Dataset
 The project uses the [Adience Benchmark Gender and Age Classification dataset](https://datasets.activeloop.ai/docs/ml/datasets/adience-dataset/). Make sure the dataset is properly formatted and placed in the project directory.
